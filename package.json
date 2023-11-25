@@ -10,9 +10,9 @@
     "type": "module"
   },
   "dependencies": {
-    "@babel/runtime": "^7.17.9",
+    "@babel/runtime": "^7.23.4",
     "meteor-node-stubs": "^1.2.1",
-    "vue": "^3.2.45",
+    "vue": "^3.3.9",
     "vue-meteor-tracker": "^3.0.0-beta.7",
     "vue-router": "^4.1.6"
   },
@@ -24,7 +24,7 @@
     "testModule": "tests/main.js"
   },
   "devDependencies": {
-    "@types/meteor": "^2.8.1",
+    "@types/meteor": "^2.9.7",
     "@vitejs/plugin-vue": "^3.2.0",
     "autoprefixer": "^10.4.13",
     "meteor-vite": "^1.5.0",
